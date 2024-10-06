@@ -1,19 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-remove this and paste it after the upload
-❯❯ NODE_OPTIONS=--openssl-legacy-provider vsce publish     
-
 # Find Then Jump 2
 
 > [leap.nvim](https://github.com/ggandor/leap.nvim) inspired code navigation.
