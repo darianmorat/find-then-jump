@@ -2,7 +2,7 @@
     "name": "find-then-jump-2",
     "displayName": "Find Then Jump 2",
     "description": "leap.nvim inspired code navigation.",
-    "version": "2.0.8",
+    "version": "2.0.9",
     "publisher": "darianmorat",
     "engines": {
         "vscode": "^1.30.0"
