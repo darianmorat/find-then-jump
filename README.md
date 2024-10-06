@@ -1,3 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+remove this and paste it after the upload
+❯❯ NODE_OPTIONS=--openssl-legacy-provider vsce publish     
+
 # Find Then Jump 2
 
 > [leap.nvim](https://github.com/ggandor/leap.nvim) inspired code navigation.
@@ -8,8 +24,8 @@ This extension is fork of [find-then-jump](https://github.com/tranhl/find-then-j
 
 Available keyboard shortcuts in order to use the extension: 
 
-- `findThenJump.initiate`: Starts a jump-search without text selection.
-- `findThenJump.initiateWithSelection`: Jump to a search term, selecting all text between the current cursor position and the search term.
+- `findThenJump2.initiate`: Starts a jump-search without text selection.
+- `findThenJump2.initiateWithSelection`: Jump to a search term, selecting all text between the current cursor position and the search term.
 
 Example in `settings.json` using [vscode-vim](https://github.com/VSCodeVim/Vim/):
 ```json
@@ -26,8 +42,8 @@ Example in `settings.json` using [vscode-vim](https://github.com/VSCodeVim/Vim/)
 
 You can customize the match colors displayed by adding the following in `settings.json`:
 
-- `findThenJump.textDecorationForeground`: Controls text color of the text decoration.
-- `findThenJump.textDecorationBackground`: Controls the background color of the text decoration.
+- `findThenJump2.textDecorationForeground`: Controls text color of the text decoration.
+- `findThenJump2.textDecorationBackground`: Controls the background color of the text decoration.
 
 Example in `settings.json`:
 
