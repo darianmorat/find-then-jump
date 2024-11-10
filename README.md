@@ -1,6 +1,6 @@
 # Find Then Jump 2
 
-This extension is a fork of [find-then-jump](https://github.com/tranhl/find-then-jump).
+> This extension is a fork of [find-then-jump](https://github.com/tranhl/find-then-jump).
 
 ## Getting Started
 
