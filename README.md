@@ -1,6 +1,5 @@
 # Find Then Jump 2
 
-> Inspired in [leap.nvim](https://github.com/ggandor/leap.nvim) code navigation. <br>
 This extension is a fork of [find-then-jump](https://github.com/tranhl/find-then-jump).
 
 ## Getting Started
